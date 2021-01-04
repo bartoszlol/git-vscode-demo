@@ -6,4 +6,4 @@
 - klichko
 - pulevvvv
 - nasko sirakov
--Nasri
+- Nasri
